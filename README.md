@@ -1,3 +1,3 @@
-# MOOCs-Recommendation
+# MOOCs-Recommendation based on knowledge graph patches
 paper &lt;Integrating GNN and Knowledge Graph Patches in MOOCs Recommendation> code
 organising...
